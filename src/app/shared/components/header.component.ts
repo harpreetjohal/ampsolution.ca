@@ -1,5 +1,4 @@
 import { Component } from "@angular/core";
-import { AppSettings } from "../app.settings";
 
 @Component({
     selector: "nav-header",
