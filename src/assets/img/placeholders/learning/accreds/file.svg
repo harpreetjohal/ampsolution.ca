@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="147px" height="187px" viewBox="0 0 147 187" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="146.521601 0.365 0.6016 0.365 0.6016 163.000603 146.521601 163.000603 146.521601 0.365"></polygon>
+        <polygon id="path-3" points="0 188.635 151.522 188.635 151.522 1 0 1"></polygon>
+        <polygon id="path-5" points="114.133 0.374 0.609 0.374 114.133 0.3756"></polygon>
+    </defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3.4a_Mobile_Accreditations_Complete-for-365" transform="translate(-146.000000, -1853.000000)">
+            <g id="Page-1" transform="translate(141.000000, 1852.000000)">
+                <polygon id="Stroke-1" stroke="#000000" stroke-width="11.731" stroke-linecap="round" points="5.8657 173.9821 135.9277 173.9821"></polygon>
+                <g id="Group-5" transform="translate(5.000000, 0.635000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-4"></g>
+                    <path d="M131.2626,147.5816 L131.3216,73.0066 L138.7596,73.0116 C143.0006,73.0206 146.4756,69.5466 146.4806,65.3036 L146.5216,18.7266 C146.5236,14.4896 143.0476,11.0176 138.8096,11.0126 L130.5716,11.0106 C128.5196,4.8886 122.7306,0.4496 115.9496,0.4406 L16.1486,0.3646 C7.6596,0.3566 0.7116,7.2936 0.7116,15.7786 L0.6016,147.4826 C0.6006,155.9706 7.5386,162.9226 16.0206,162.9236 L115.8286,163.0006 C124.3086,163.0056 131.2606,156.0656 131.2626,147.5816" id="Fill-3" fill="#FF8B00" mask="url(#mask-2)"></path>
+                </g>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <g id="Clip-7"></g>
+                <polygon id="Fill-6" fill="#FF8B00" mask="url(#mask-4)" points="9.414 53.923 119.133 53.923 119.133 1.334 9.414 1.334"></polygon>
+                <polygon id="Fill-8" fill="#FFFFFF" mask="url(#mask-4)" points="26.562 151.678 125.599 151.678 125.599 14.423 26.562 14.423"></polygon>
+                <path d="M114.1849,187.9052 L8.7629,163.9582 C6.9179,163.5392 5.6089,161.8992 5.6089,160.0072 L5.6089,5.3862 C5.6089,2.7862 8.0219,0.8592 10.5579,1.4362 L115.9799,25.3832 C117.8249,25.8022 119.1339,27.4422 119.1339,29.3342 L119.1339,183.9552 C119.1339,186.5542 116.7199,188.4812 114.1849,187.9052" id="Fill-9" fill="#FFB800" mask="url(#mask-4)"></path>
+                <g id="Group-12" mask="url(#mask-4)">
+                    <g transform="translate(5.000000, 25.635000)">
+                        <mask id="mask-6" fill="white">
+                            <use xlink:href="#path-5"></use>
+                        </mask>
+                        <g id="Clip-11" stroke="none" fill="none"></g>
+                        <path d="M110.9797,0.3756 C112.8247,0.7946 114.1337,2.4346 114.1337,4.3256 L114.1337,158.9466 C114.1337,161.5466 111.7197,163.4736 109.1847,162.8976 L3.7627,138.9506 C1.9177,138.5316 0.6087,136.8916 0.6087,134.9996" id="Fill-10" stroke="none" fill="#231F1F" fill-rule="evenodd" mask="url(#mask-6)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
