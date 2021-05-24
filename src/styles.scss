@@ -103,6 +103,15 @@ h1, h2, h3, h4, h5, h6 {
       color: #fff !important;
       opacity: .75;
     }
+.right-arrow {
+  color: #6DBF55;
+  margin-right:0.2rem;
+  font-size: 2rem;
+}
+.right-arrow:hover, .right-arrow:active, .right-arrow:focus {
+  color: #fff !important;
+  opacity: .75;
+}
 .card {
 
   .card-header {
